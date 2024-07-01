@@ -3,7 +3,7 @@ import re
 import sys
 
 email=sys.argv[1]
-if (re.search("@", email)):
+if (re.search(r".+@.+\.edu", email)):
     print("Valid")
 else:
     print("Invalid")
