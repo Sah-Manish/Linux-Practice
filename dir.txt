@@ -1,0 +1,20 @@
+ Volume in drive E is New Volume
+ Volume Serial Number is 68F8-D812
+
+ Directory of E:\python\Linux-Practice
+
+01-07-2024  11:07    <DIR>          .
+01-07-2024  11:07    <DIR>          ..
+30-06-2024  20:32             1,840 .test.py.un~
+01-07-2024  11:07                 0 dir.txt
+26-06-2024  21:13            59,916 Ex_Files_AWK_EssT.zip
+26-06-2024  21:13            24,617 Ex_Files_Learning_Linux_Shell_Scripting.zip
+26-06-2024  21:13           117,438 Ex_Files_Learning_Vim.zip
+26-06-2024  21:13           135,124 Ex_Files_Linux_Shells_and_Processes.zip
+26-06-2024  21:13           130,340 log.tar.gz
+26-06-2024  21:14               333 password.py
+26-06-2024  21:13               186 README.md
+30-06-2024  20:32                89 test.py
+27-06-2024  20:37                26 test.py~
+              11 File(s)        469,909 bytes
+               2 Dir(s)     368,775,168 bytes free
