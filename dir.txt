@@ -1,12 +1,31 @@
-total 484K
--rw-r--r-- 1 root root  25K Jul  2 19:28 Ex_Files_Learning_Linux_Shell_Scripting.zip
--rw-r--r-- 1 root root  59K Jul  2 19:28 Ex_Files_AWK_EssT.zip
--rw-r--r-- 1 root root   84 Jul  2 19:28 test.py
-drwxr-xr-x 2 root root 4.0K Jul  2 19:28 ReGex Practice
--rw-r--r-- 1 root root  172 Jul  2 19:28 README.md
--rw-r--r-- 1 root root  156 Jul  2 19:28 password.py
--rw-r--r-- 1 root root  141 Jul  2 19:28 math_function.py
--rw-r--r-- 1 root root 128K Jul  2 19:28 log.tar.gz
--rw-r--r-- 1 root root 132K Jul  2 19:28 Ex_Files_Linux_Shells_and_Processes.zip
--rw-r--r-- 1 root root 115K Jul  2 19:28 Ex_Files_Learning_Vim.zip
--rw-r--r-- 1 root root    0 Jul  2 19:29 dir.txt
+ Volume in drive E is New Volume
+ Volume Serial Number is 68F8-D812
+
+ Directory of E:\python\Linux-Practice
+
+07-07-2024  09:01    <DIR>          .
+07-07-2024  09:01    <DIR>          ..
+05-07-2024  08:38             1,385 .hashmap.py.un~
+06-07-2024  09:13             4,215 .hashmaprenewed.py.un~
+04-07-2024  09:37             4,685 .table.py.un~
+07-07-2024  09:01             2,273 .test.py.un~
+08-07-2024  05:52                 0 dir.txt
+26-06-2024  21:13            59,916 Ex_Files_AWK_EssT.zip
+26-06-2024  21:13            24,617 Ex_Files_Learning_Linux_Shell_Scripting.zip
+26-06-2024  21:13           117,438 Ex_Files_Learning_Vim.zip
+26-06-2024  21:13           135,124 Ex_Files_Linux_Shells_and_Processes.zip
+05-07-2024  08:38               126 hashmap.py
+06-07-2024  09:13               152 hashmaprenewed.py
+06-07-2024  09:10               111 hashmaprenewed.py~
+26-06-2024  21:13           130,340 log.tar.gz
+01-07-2024  11:09               146 math_function.py
+01-07-2024  11:09               163 password.py
+26-06-2024  21:13               186 README.md
+03-07-2024  17:47    <DIR>          ReGex Practice
+03-07-2024  17:50             4,468 requirements.txt
+04-07-2024  09:37               103 table.py
+04-07-2024  09:37                98 table.py~
+07-07-2024  09:01               110 test.py
+30-06-2024  20:32                89 test.py~
+              21 File(s)        485,745 bytes
+               3 Dir(s)     368,726,016 bytes free
