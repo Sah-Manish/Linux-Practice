@@ -3,13 +3,13 @@
 
  Directory of E:\python\Linux-Practice
 
-07-07-2024  09:01    <DIR>          .
-07-07-2024  09:01    <DIR>          ..
+09-07-2024  06:27    <DIR>          .
+09-07-2024  06:27    <DIR>          ..
 05-07-2024  08:38             1,385 .hashmap.py.un~
 06-07-2024  09:13             4,215 .hashmaprenewed.py.un~
 04-07-2024  09:37             4,685 .table.py.un~
 07-07-2024  09:01             2,273 .test.py.un~
-08-07-2024  05:52                 0 dir.txt
+10-07-2024  06:50                 0 dir.txt
 26-06-2024  21:13            59,916 Ex_Files_AWK_EssT.zip
 26-06-2024  21:13            24,617 Ex_Files_Learning_Linux_Shell_Scripting.zip
 26-06-2024  21:13           117,438 Ex_Files_Learning_Vim.zip
@@ -20,6 +20,7 @@
 26-06-2024  21:13           130,340 log.tar.gz
 01-07-2024  11:09               146 math_function.py
 01-07-2024  11:09               163 password.py
+09-07-2024  06:27                24 randon.txt
 26-06-2024  21:13               186 README.md
 03-07-2024  17:47    <DIR>          ReGex Practice
 03-07-2024  17:50             4,468 requirements.txt
@@ -27,5 +28,5 @@
 04-07-2024  09:37                98 table.py~
 07-07-2024  09:01               110 test.py
 30-06-2024  20:32                89 test.py~
-              21 File(s)        485,745 bytes
+              22 File(s)        485,769 bytes
                3 Dir(s)     368,726,016 bytes free
